@@ -12,7 +12,7 @@ Open and run the notebooks in order.
 
 ## 📓 Included Notebooks
  1. **Prepare**
-    Generates embeddings for the dataset in the data/ folder using Cohere’s embedding model, and ingests them into OpenSearch.
+    Generates embeddings for the dataset in the data/ folder using Cohere’s `embed-english-v3.0` embedding model, and ingests them into OpenSearch.
 
  2. **PCA**
     Analyzes the raw embedding vectors:
@@ -25,4 +25,7 @@ Open and run the notebooks in order.
  4. **UMAP**
     Reduces the embedding space to 2D and 3D for visualization.
     Also demonstrates how even a small change in context can shift the meaning — and embedding — of a term.
+
+![image](https://github.com/user-attachments/assets/09dd22b4-391a-4e1f-a0c0-de261020dca8)
+
 
