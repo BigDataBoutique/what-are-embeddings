@@ -6,6 +6,8 @@ Install dependencies with Poetry:
 
 ```poetry install```
 
+Then copy `.env.template` to `.env` and fill in the required values.
+
 Open and run the notebooks in order.
 
 ## 📓 Included Notebooks
