@@ -26,4 +26,6 @@ Open and run the notebooks in order.
     Reduces the embedding space to 2D and 3D for visualization.
     Also demonstrates how even a small change in context can shift the meaning — and embedding — of a term.
 
-![image](https://github.com/user-attachments/assets/6a7cfecc-a49a-4943-9400-27044e35ed92)
+![image](https://github.com/user-attachments/assets/09dd22b4-391a-4e1f-a0c0-de261020dca8)
+
+
