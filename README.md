@@ -12,7 +12,7 @@ Open and run the notebooks in order.
 
 ## 📓 Included Notebooks
  1. **Prepare**
-    Generates embeddings for the dataset in the data/ folder using Cohere’s embedding model, and ingests them into OpenSearch.
+    Generates embeddings for the dataset in the data/ folder using Cohere’s `embed-english-v3.0` embedding model, and ingests them into OpenSearch.
 
  2. **PCA**
     Analyzes the raw embedding vectors:
